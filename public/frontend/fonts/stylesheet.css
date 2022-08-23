@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Luna';
+    src: url('Luna.eot');
+    src: url('Luna.eot?#iefix') format('embedded-opentype'),
+        url('Luna.woff2') format('woff2'),
+        url('Luna.woff') format('woff'),
+        url('Luna.ttf') format('truetype'),
+        url('Luna.svg#Luna') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

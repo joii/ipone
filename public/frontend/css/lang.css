@@ -1,0 +1,15 @@
+html[lang="th"] .th{display: block;}
+html[lang="th"] .en,
+html[lang="th"] .ch{display: none !important;}
+
+html[lang="en"] .en{display: block;}
+html[lang="en"] .th,
+html[lang="en"] .ch{display: none!important;}
+
+html[lang="th"] .nav.th ,
+html[lang="en"] .nav.en ,
+html[lang="th"] .box-50th-text.th,
+html[lang="en"] .box-50th-text.en {display: flex;}
+
+
+ 
